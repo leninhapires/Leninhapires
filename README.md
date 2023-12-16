@@ -31,4 +31,4 @@
 ![Leninhapires GitHub stats](https://github-readme-stats.vercel.app/api?username=Leninhapires\&show_icons=true&theme=rose)
 </div>
 
-[![gif](https://tgram.ru/wiki/stickers/img/star_butterfly_vk/png/25.png)]()
+
