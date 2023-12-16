@@ -1,9 +1,6 @@
 ### Olá! Eu sou Francilene    
 
-![img](https://tgram.ru/wiki/stickers/img/Froggythecutefrog/gif/2.gif)
-
-**dev jr. universitaria em Analise e Desenvolvimento de Sistemas.🍄**
-
+**desenvolvedora front-end
 ------
 
 #### redes sociais
