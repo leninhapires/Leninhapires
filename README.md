@@ -1,6 +1,6 @@
 ### Olá! Eu sou Francilene    
 
-**desenvolvedora front-end
+*** Analista de Suporte jr
 ------
 
 #### redes sociais
