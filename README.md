@@ -1,34 +1,18 @@
-### Olá! Eu sou Francilene    
+🌌 Olá! Eu sou Francilene
+🛠 Analista de Suporte Jr | Cyber Explorer | Geek Enthusiast
 
-*** Analista de Suporte jr
-------
-
-#### redes sociais
-💁🏽‍♀️Meu portifolio 
-
-[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://leninhapires.github.io/portifiolio-existent/)
-
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+🌐 Redes Sociais
+👾 Entre no meu mundo:
 
 
-[![linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-
----------
-### HABILIDADES 👩🏽‍💻
-
-<div style="display:inline-block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-"/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
--------
-[![sistema](https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-
---------
-
-![Leninhapires GitHub stats](https://github-readme-stats.vercel.app/api?username=Leninhapires\&show_icons=true&theme=rose)
-</div>
 
 
+🧩 Habilidades
+<div style="display:inline-block"><br/> <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img align="center" alt="c" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/> </div>
+⚙️ Setup Atual
+💻 Sistema Operacional:
+
+
+📈 Estatísticas
+
+🖤 Codificando um futuro sombrio e fascinante.
